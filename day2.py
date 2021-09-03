@@ -1,0 +1,10 @@
+name = input("What is your name? ")
+age = input("How old are you? ")
+hourly_wage = input("Please enter your hourly wage: ")
+hours_worked = input("How many hours did you work this week? ")
+print(name,"you are", age, "years old")
+print("Hourly wage: ")
+print(hourly_wage)
+print("Hours worked: ")
+print(hours_worked)
+
